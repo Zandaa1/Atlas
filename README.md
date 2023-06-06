@@ -126,4 +126,4 @@ We also have a dedicated area on our [forum](https://forum.atlasos.net/t/art-sho
 ## ⚠️ Disclaimer
 Atlas-OS is **NOT** a pre-activated version of Windows. You **must** use a valid key to activate Windows. Before buying a Windows 10 (Professional or Home) license, be sure the seller is trustworthy and the key is legitimate — no matter where you buy it.
 
-Atlas is based on Microsoft Windows. By using Windows, you agree to [Microsoft's Terms of Service](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm).
+Atlas is based on Microsoft Windows. By using Windows, you agree to [Microsoft's Terms of Service](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm)
